@@ -3,6 +3,12 @@ package calculadora;
 
 public class Calculadora {
 	
+	public static void main(String args[]) {
+		Calculadora cal = new Calculadora();
+		int a=3, b=2;
+		int res= cal.add(a,b);
+		System.out.println("3 + 2 = " +res);
+	}
 private int ans;
 	
 	public Calculadora() {
