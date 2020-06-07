@@ -1,6 +1,5 @@
 package calculadora.Test;
 
-import org.junit.Test;
 import org.junit.platform.runner.JUnitPlatform;
 import org.junit.platform.suite.api.SelectPackages;
 import org.junit.platform.suite.api.SuiteDisplayName;
